@@ -1,7 +1,6 @@
 
 # RE-Dact Tool
 
-### Authors:
 
 
 <p>
